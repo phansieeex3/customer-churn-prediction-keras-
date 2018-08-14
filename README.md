@@ -16,11 +16,11 @@ internet service appear to play a role in customer churn based on running logist
 customers with one or two year contract, with longer than 12 months tenure, that are not using paperless 
 billing are less likely to churn 
 
-dataset: https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
+* dataset: https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
 
-source: https://datascienceplus.com/predict-customer-churn-logistic-regression-decision-tree-and-random-forest/
+* source: https://datascienceplus.com/predict-customer-churn-logistic-regression-decision-tree-and-random-forest/
 
-source code for analysis: https://github.com/susanli2016/Data-Analysis-with-R/blob/master/customer_churn.Rmd
+* source code for analysis: https://github.com/susanli2016/Data-Analysis-with-R/blob/master/customer_churn.Rmd
 
 
 
